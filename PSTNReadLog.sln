@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSTNReadLog", "PSTNReadLog\PSTNReadLog.csproj", "{03C48940-F883-440C-BEA9-2ACE8E51A7EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03C48940-F883-440C-BEA9-2ACE8E51A7EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C48940-F883-440C-BEA9-2ACE8E51A7EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C48940-F883-440C-BEA9-2ACE8E51A7EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C48940-F883-440C-BEA9-2ACE8E51A7EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A34977CF-C300-417B-A256-D6FC1F8E824B}
+	EndGlobalSection
+EndGlobal
