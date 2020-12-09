@@ -1,10 +1,15 @@
 D:\DATA-DEV\2020\PSTNReadLog\PSTNReadLog\bin\Debug\PSTNReadLog.exe.config
 D:\DATA-DEV\2020\PSTNReadLog\PSTNReadLog\bin\Debug\PSTNReadLog.exe
 D:\DATA-DEV\2020\PSTNReadLog\PSTNReadLog\bin\Debug\PSTNReadLog.pdb
-D:\DATA-DEV\2020\PSTNReadLog\PSTNReadLog\obj\Debug\PSTNReadLog.csprojAssemblyReference.cache
 D:\DATA-DEV\2020\PSTNReadLog\PSTNReadLog\obj\Debug\PSTNReadLog.Form1.resources
 D:\DATA-DEV\2020\PSTNReadLog\PSTNReadLog\obj\Debug\PSTNReadLog.Properties.Resources.resources
 D:\DATA-DEV\2020\PSTNReadLog\PSTNReadLog\obj\Debug\PSTNReadLog.csproj.GenerateResource.cache
 D:\DATA-DEV\2020\PSTNReadLog\PSTNReadLog\obj\Debug\PSTNReadLog.csproj.CoreCompileInputs.cache
 D:\DATA-DEV\2020\PSTNReadLog\PSTNReadLog\obj\Debug\PSTNReadLog.exe
 D:\DATA-DEV\2020\PSTNReadLog\PSTNReadLog\obj\Debug\PSTNReadLog.pdb
+D:\DATA-DEV\2020\PSTNReadLog\PSTNReadLog\bin\Debug\Newtonsoft.Json.dll
+D:\DATA-DEV\2020\PSTNReadLog\PSTNReadLog\bin\Debug\System.Net.Http.Formatting.dll
+D:\DATA-DEV\2020\PSTNReadLog\PSTNReadLog\bin\Debug\Newtonsoft.Json.xml
+D:\DATA-DEV\2020\PSTNReadLog\PSTNReadLog\bin\Debug\System.Net.Http.Formatting.xml
+D:\DATA-DEV\2020\PSTNReadLog\PSTNReadLog\obj\Debug\PSTNReadLog.csproj.CopyComplete
+D:\DATA-DEV\2020\PSTNReadLog\PSTNReadLog\obj\Debug\PSTNReadLog.csprojAssemblyReference.cache

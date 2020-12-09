@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EinvoiceExtend.Util
+namespace PSTNReadLog.Util
 {
     public abstract class SqlQueryExecutorBase
     {

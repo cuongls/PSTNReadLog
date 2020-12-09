@@ -5,8 +5,9 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static PSTNReadLog.Form1;
 
-namespace EinvoiceExtend.Util
+namespace PSTNReadLog.Util
 {
     class SqlServerSqlQueryExecutor : SqlQueryExecutorBase, ISqlQueryExecutor
     {
@@ -35,7 +36,6 @@ namespace EinvoiceExtend.Util
         public void ExecuteUpdate(string Sql)
         {
             BuildConnectionString();
-            DataTable dt = new DataTable();
             using (SqlConnection c = new SqlConnection(this.ConnectionString))
             {
                 c.Open();
