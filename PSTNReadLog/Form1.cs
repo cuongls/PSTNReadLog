@@ -475,7 +475,8 @@ namespace PSTNReadLog
                 if(alarm.isBegin == true)
                 {
                     string input = String.Format("\"MaSuCo\": \"{0}\",\"MaVeTinh\": \"{1}\",\"LoaiMang\":\"{2}\",\"LoaiCanhBao\":\"{3}\",\"CapDoId\": \"{4}\",\"TgSuCo\": \"{5}\",\"TgClr\":\"{6}\",\"MaTinhThanh\":\"{7}\",\"TrangThai\": \"{8}\",\"HeThongId\": \"{9}\",\"NoiDungCanhBao\":\"{10}\"",
-                    alarm.HOST + "_" + dmVeTinh.Rows[0]["MaVT"] + "_" + alarm.DLU + "_" + alarm.ERL+ "_" + alarm.startDate.Value.ToString("ddMMyyyyHHmmss"),
+                    //alarm.HOST + "_" + dmVeTinh.Rows[0]["MaVT"] + "_" + alarm.DLU + "_" + alarm.ERL+ "_" + alarm.startDate.Value.ToString("ddMMyyyyHHmmss"),
+                    alarm.HOST + "_" + dmVeTinh.Rows[0]["MaVT"] + "_" + alarm.ERL,
                     dmVeTinh.Rows[0]["MaVT"],
                     40112,
                     dmAlarm.Rows[0]["LoaiCanhBao"],
@@ -496,7 +497,8 @@ namespace PSTNReadLog
                     if (lsAlarm.Rows.Count > 0)
                     {
                         string input = String.Format("\"MaSuCo\": \"{0}\",\"MaVeTinh\": \"{1}\",\"LoaiMang\":\"{2}\",\"LoaiCanhBao\":\"{3}\",\"CapDoId\": \"{4}\",\"TgSuCo\": \"{5}\",\"TgClr\":\"{6}\",\"MaTinhThanh\":\"{7}\",\"TrangThai\": \"{8}\",\"HeThongId\": \"{9}\",\"NoiDungCanhBao\":\"{10}\"",
-                        alarm.HOST + "_" + dmVeTinh.Rows[0]["MaVT"] + "_" + alarm.DLU + "_" + alarm.ERL + "_" + Convert.ToDateTime(lsAlarm.Rows[0]["StartDate"].ToString()).ToString("ddMMyyyyHHmmss"),
+                        //alarm.HOST + "_" + dmVeTinh.Rows[0]["MaVT"] + "_" + alarm.DLU + "_" + alarm.ERL + "_" + Convert.ToDateTime(lsAlarm.Rows[0]["StartDate"].ToString()).ToString("ddMMyyyyHHmmss"),
+                        alarm.HOST + "_" + dmVeTinh.Rows[0]["MaVT"] +  "_" + alarm.ERL,
                         dmVeTinh.Rows[0]["MaVT"],
                         40112,
                         dmAlarm.Rows[0]["LoaiCanhBao"],
