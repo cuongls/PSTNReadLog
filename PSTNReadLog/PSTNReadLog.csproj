@@ -64,6 +64,7 @@
     <Compile Include="Util\ISqlQueryExecutor.cs" />
     <Compile Include="Util\SqlQueryExecutorBase.cs" />
     <Compile Include="Util\SqlServerSqlQueryExecutor.cs" />
+    <Compile Include="Util\WebService.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -88,7 +89,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

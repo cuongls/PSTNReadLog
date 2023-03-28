@@ -25,7 +25,7 @@ namespace PSTNReadLog.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        [global::System.Configuration.DefaultSettingValueAttribute("\\\\10.10.30.35\\thanhtri\\BMMLLog2.txt")]
         public string LogTDHFilePath {
             get {
                 return ((string)(this["LogTDHFilePath"]));
@@ -37,7 +37,7 @@ namespace PSTNReadLog.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        [global::System.Configuration.DefaultSettingValueAttribute("\\\\10.10.30.35\\thanhtri\\BMMLLog2.bak")]
         public string LogBackUpTDHFilePath {
             get {
                 return ((string)(this["LogBackUpTDHFilePath"]));
@@ -49,7 +49,7 @@ namespace PSTNReadLog.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        [global::System.Configuration.DefaultSettingValueAttribute("\\\\10.10.30.35\\thanhtri\\BMMLLog2.txt")]
         public string LogTTIFilePath {
             get {
                 return ((string)(this["LogTTIFilePath"]));
@@ -61,7 +61,7 @@ namespace PSTNReadLog.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        [global::System.Configuration.DefaultSettingValueAttribute("\\\\10.10.30.35\\thanhtri\\BMMLLog2.bak")]
         public string LogBackUpTTIFilePath {
             get {
                 return ((string)(this["LogBackUpTTIFilePath"]));
@@ -73,7 +73,7 @@ namespace PSTNReadLog.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        [global::System.Configuration.DefaultSettingValueAttribute("10.10.117.167")]
         public string Server {
             get {
                 return ((string)(this["Server"]));
@@ -85,7 +85,7 @@ namespace PSTNReadLog.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        [global::System.Configuration.DefaultSettingValueAttribute("WebPSTN")]
         public string Database {
             get {
                 return ((string)(this["Database"]));
@@ -97,7 +97,7 @@ namespace PSTNReadLog.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        [global::System.Configuration.DefaultSettingValueAttribute("sa")]
         public string Pass {
             get {
                 return ((string)(this["Pass"]));
@@ -109,7 +109,7 @@ namespace PSTNReadLog.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        [global::System.Configuration.DefaultSettingValueAttribute("1433")]
         public string Port {
             get {
                 return ((string)(this["Port"]));
@@ -121,7 +121,7 @@ namespace PSTNReadLog.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        [global::System.Configuration.DefaultSettingValueAttribute("11aDminDhm@")]
         public string User {
             get {
                 return ((string)(this["User"]));

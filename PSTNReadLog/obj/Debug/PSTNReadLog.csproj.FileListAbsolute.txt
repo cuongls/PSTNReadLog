@@ -20,7 +20,6 @@ E:\DEV-DATA\2020\PSTNReadLog\PSTNReadLog\bin\Debug\Newtonsoft.Json.dll
 E:\DEV-DATA\2020\PSTNReadLog\PSTNReadLog\bin\Debug\System.Net.Http.Formatting.dll
 E:\DEV-DATA\2020\PSTNReadLog\PSTNReadLog\bin\Debug\Newtonsoft.Json.xml
 E:\DEV-DATA\2020\PSTNReadLog\PSTNReadLog\bin\Debug\System.Net.Http.Formatting.xml
-E:\DEV-DATA\2020\PSTNReadLog\PSTNReadLog\obj\Debug\PSTNReadLog.csprojAssemblyReference.cache
 E:\DEV-DATA\2020\PSTNReadLog\PSTNReadLog\obj\Debug\PSTNReadLog.Form1.resources
 E:\DEV-DATA\2020\PSTNReadLog\PSTNReadLog\obj\Debug\PSTNReadLog.Properties.Resources.resources
 E:\DEV-DATA\2020\PSTNReadLog\PSTNReadLog\obj\Debug\PSTNReadLog.csproj.GenerateResource.cache
@@ -28,3 +27,4 @@ E:\DEV-DATA\2020\PSTNReadLog\PSTNReadLog\obj\Debug\PSTNReadLog.csproj.CoreCompil
 E:\DEV-DATA\2020\PSTNReadLog\PSTNReadLog\obj\Debug\PSTNReadLog.csproj.CopyComplete
 E:\DEV-DATA\2020\PSTNReadLog\PSTNReadLog\obj\Debug\PSTNReadLog.exe
 E:\DEV-DATA\2020\PSTNReadLog\PSTNReadLog\obj\Debug\PSTNReadLog.pdb
+E:\DEV-DATA\2020\PSTNReadLog\PSTNReadLog\obj\Debug\PSTNReadLog.csprojAssemblyReference.cache

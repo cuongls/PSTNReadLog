@@ -3,31 +3,31 @@
   <Profiles />
   <Settings>
     <Setting Name="LogTDHFilePath" Type="System.String" Scope="User">
-      <Value Profile="(Default)" />
+      <Value Profile="(Default)">\\10.10.30.35\thanhtri\BMMLLog2.txt</Value>
     </Setting>
     <Setting Name="LogBackUpTDHFilePath" Type="System.String" Scope="User">
-      <Value Profile="(Default)" />
+      <Value Profile="(Default)">\\10.10.30.35\thanhtri\BMMLLog2.bak</Value>
     </Setting>
     <Setting Name="LogTTIFilePath" Type="System.String" Scope="User">
-      <Value Profile="(Default)" />
+      <Value Profile="(Default)">\\10.10.30.35\thanhtri\BMMLLog2.txt</Value>
     </Setting>
     <Setting Name="LogBackUpTTIFilePath" Type="System.String" Scope="User">
-      <Value Profile="(Default)" />
+      <Value Profile="(Default)">\\10.10.30.35\thanhtri\BMMLLog2.bak</Value>
     </Setting>
     <Setting Name="Server" Type="System.String" Scope="User">
-      <Value Profile="(Default)" />
+      <Value Profile="(Default)">10.10.117.167</Value>
     </Setting>
     <Setting Name="Database" Type="System.String" Scope="User">
-      <Value Profile="(Default)" />
+      <Value Profile="(Default)">WebPSTN</Value>
     </Setting>
     <Setting Name="Pass" Type="System.String" Scope="User">
-      <Value Profile="(Default)" />
+      <Value Profile="(Default)">sa</Value>
     </Setting>
     <Setting Name="Port" Type="System.String" Scope="User">
-      <Value Profile="(Default)" />
+      <Value Profile="(Default)">1433</Value>
     </Setting>
     <Setting Name="User" Type="System.String" Scope="User">
-      <Value Profile="(Default)" />
+      <Value Profile="(Default)">11aDminDhm@</Value>
     </Setting>
   </Settings>
 </SettingsFile>
